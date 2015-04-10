@@ -1,0 +1,42 @@
+body{
+	background-color: lightgrey;
+	padding:2em;
+}
+
+.inner{
+	background-color: white;
+	width:80%;
+	padding:2em;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+}
+
+.user-info  {
+	width: 100%;
+  padding-bottom: 5px;   
+  text-align: right;
+}
+
+
+.user-info input{
+	width: 50%;
+	margin: .2em;
+}
+
+.sub-button, .edit-button{
+
+	padding: 5px;
+	padding-top:8px;
+	border: solid black 1px;
+}
+
+.dog{
+	width:60%;
+	padding: 2em;
+}
+
+.stock-input input{
+	border:none;
+	
+}
